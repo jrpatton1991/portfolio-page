@@ -21,7 +21,7 @@
   border-radius: 40px;
 }
 
-.skills-text{
+.non-tech{
   margin-left: 40px;
   font-size: 22px;
 }h1{
@@ -30,4 +30,14 @@
   color: #D70026;
   padding: 4px 0px 4px 0px;
   list-style: none;
+}
+
+.media-heading{
+  color: #002C54;
+  margin-top: 20px;
+  padding: 12px 0px 12px 0px;
+}h4 {
+  margin-left: 2%;
+  color: #D70026;
+  font-size: 22px;
 }
