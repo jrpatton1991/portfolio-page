@@ -1,0 +1,21 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed);
+
+nav{
+  background-color:#002C54;
+  font-family: 'Roboto Condensed'
+}
+
+.container{
+  padding: 6px 0px 6px 0px;
+  margin-left: 50px;
+}
+
+.nav>li>a {
+ color: white;
+ font-size: 20px;
+}
+
+.nav>li>a:hover{
+  color:#D70026;
+  background-color: transparent;
+}
