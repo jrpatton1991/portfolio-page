@@ -20,17 +20,17 @@ body{
   background-color: #002C54;
   opacity: 0.9;
 }
-
 #contact-me{
   margin-left: 20px;
-}.list-unstyled{
+}
+.list-unstyled{
   margin-left: 30px;
 }span{
   padding-left: 20px;
   font-size: 30px;
 }
-
 .social{
-  height: 100px;
-  width: 100px;
+  height: 90px;
+  width: 90px;
+  padding: 10px;
 }
