@@ -1,0 +1,35 @@
+.jumbotron {
+  background-color: transparent;
+  padding-bottom: 0px;
+  margin-left: 40px;
+  color: #002C54;
+}
+
+.projects{
+  margin-left: 20px;
+}.title{
+  padding-bottom: 20px;
+  padding-top: 20px;
+  color:  #002C54;
+  font-size: 35px;
+}a{
+ color:  #002C54;
+ margin: 0px;
+}a:hover{
+ text-decoration: none;
+ color:  #D70026;
+}h6{
+ font-size: 20px;
+ color: #D70026;
+}h4{
+ font-size: 20px;
+ color: #002C54;
+}p{
+ font-size: 20px;
+ color: #D70026;
+}
+
+.caption{
+  text-align: center;
+  font-size: 20px;
+}
