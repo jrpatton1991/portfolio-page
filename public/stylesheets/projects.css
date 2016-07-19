@@ -27,12 +27,15 @@ body{
 }h6{
  font-size: 20px;
  color: #D70026;
+ padding-bottom: 15px;
 }h4{
  font-size: 20px;
  color: #002C54;
 }p{
  font-size: 20px;
  color: #D70026;
+}.directive-descrip{
+ padding: 0px 100px 20px 100px;
 }
 
 .caption{
