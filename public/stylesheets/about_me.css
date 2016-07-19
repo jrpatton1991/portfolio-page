@@ -1,5 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Mr+Dafoe);
+@import url(https://fonts.googleapis.com/css?family=Raleway:300);
 
+body{
+  font-family: "Raleway";
+}
 #name {
   font-family: "Mr Dafoe";
   font-size: 90px;
