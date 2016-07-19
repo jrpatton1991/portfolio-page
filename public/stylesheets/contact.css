@@ -24,7 +24,8 @@ body{
   opacity: 0.9;
 }
 #contact-me{
-  margin-left: 20px;
+  margin-left: 40px;
+  padding: 20px 0px 20px 0px;
 }
 .list-unstyled{
   margin-left: 30px;
