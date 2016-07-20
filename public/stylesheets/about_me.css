@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Mr+Dafoe);
-@import url(https://fonts.googleapis.com/css?family=Raleway:300);
+@import url(https://fonts.googleapis.com/css?family=Raleway);
 
 body{
   font-family: "Raleway";
@@ -7,7 +7,7 @@ body{
 #name {
   font-family: "Mr Dafoe";
   font-size: 90px;
-  color: #002C54;
+  color: #104E8B;
   text-align: center;
   padding: 30px 0px 30px 0px;
 }
@@ -28,32 +28,34 @@ h1.page-header {
 }.col-md-4 img {
   max-width: 250px;
   height: 250px;
-  border: 5px solid #002C54;
+  border: 5px solid #999999;
   border-radius: 40px;
   padding: 30px;
 }
 
 div.caption{
-  color: #D70026 !important;
+  color: #104E8B !important;
+  font-weight: 800;
+  font-size: 22px;
 }
 
 .non-tech{
   margin-left: 40px;
   font-size: 22px;
 }h1{
-  color: #002C54;
+  color: #104E8B;
 }li{
-  color: #D70026;
+  color: #999999;
   padding: 4px 0px 4px 0px;
   list-style: none;
 }
 
 .media-heading{
-  color: #002C54;
+  color: #104E8B;
   padding: 30px 0px 15px 0px;
 }h4 {
   margin-left: 2%;
-  color: #D70026;
+  color: #999999;
   font-size: 22px;
 }#last {
   padding-bottom: 40px;

@@ -1,14 +1,17 @@
-@import url(https://fonts.googleapis.com/css?family=Raleway:300);
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+@import url(https://fonts.googleapis.com/css?family=Mr+Dafoe);
 
 body{
   font-family: "Raleway";
 }
 
-.jumbotron {
-  background-color: transparent;
-  padding-bottom: 0px;
+.my-work{
   margin-left: 40px;
-  color: #002C54;
+  color: #104E8B;
+  text-align: center;
+  font-family: "Mr Dafoe";
+  font-size: 100px;
+  padding: 30px 0px 30px 0px;
 }
 
 .projects{
@@ -16,24 +19,24 @@ body{
 }.title{
   padding-bottom: 20px;
   padding-top: 20px;
-  color:  #002C54;
+  color:  #104E8B;
   font-size: 35px;
 }a{
- color:  #002C54;
+ color:  #104E8B;
  margin: 0px;
 }a:hover{
  text-decoration: none;
- color:  #D70026;
+ color:  #999999;
 }h6{
  font-size: 20px;
- color: #D70026;
+ color: #999999;
  padding-bottom: 15px;
 }h4{
  font-size: 20px;
- color: #002C54;
+ color: #104E8B;
 }p{
  font-size: 20px;
- color: #D70026;
+ color: #999999;
 }.directive-descrip{
  padding: 0px 100px 20px 100px;
 }
