@@ -12,7 +12,7 @@ body{
   padding: 30px 0px 30px 0px;
 }
 
-h1.page-header {
+.page-header {
   margin-left: 30px;
 }
 
@@ -61,22 +61,49 @@ div.caption{
   padding-bottom: 40px;
 }
 
+
+/*  iPhone, retina  */
+
 @media (max-width: 480px) {
 
-  .col-xs-4 img{
-    max-width: 100px;
-    height: 100px;
-    border: 2px solid #999999;
-    border-radius: 10px;
-  }
   #name {
     font-family: "Mr Dafoe";
     font-size: 70px;
     padding: 30px 0px 30px 0px;
   }
+  .col-xs-4 img{
+    max-width: 100px;
+    height: 100px;
+    border: 2px solid #999999;
+    border-radius: 10px;
+    padding: 5px;
+  }
+
+  .page-header{
+    font-size: 25px;
+    margin-left: 2%;
+  }
+
+  div.caption{
+    font-size: 12px;
+  }
+
+  .non-tech{
+    margin-left: 3%;
+    font-size: 22px;
+  }h1{
+    color: #104E8B;
+  }li{
+    color: #999999;
+    padding: 4px 0px 4px 0px;
+    list-style: none;
+  }
 
   .media-heading{
-    font-size: 10px;
-    padding: 20px 0px 10px 0px;
+    font-size: 19px;
+    padding: 10px 0px 10px 0px;
+  }h4{
+    font-size: 18px;
+    padding-bottom: 7px;
   }
 }
