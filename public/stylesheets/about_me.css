@@ -60,3 +60,23 @@ div.caption{
 }#last {
   padding-bottom: 40px;
 }
+
+@media (max-width: 480px) {
+
+  .col-xs-4 img{
+    max-width: 100px;
+    height: 100px;
+    border: 2px solid #999999;
+    border-radius: 10px;
+  }
+  #name {
+    font-family: "Mr Dafoe";
+    font-size: 70px;
+    padding: 30px 0px 30px 0px;
+  }
+
+  .media-heading{
+    font-size: 10px;
+    padding: 20px 0px 10px 0px;
+  }
+}
