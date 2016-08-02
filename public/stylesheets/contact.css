@@ -37,3 +37,10 @@ body{
   width: 70px;
   margin-bottom: 20px;
 }
+
+a:hover{
+  text-decoration: none;
+}.btn{
+  font-size: 30px;
+  margin-left: 5px;
+}
